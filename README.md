@@ -6,15 +6,14 @@ This function returns a greeting message and demonstrates basic cloud deployment
 
 ---
 
-## 🔧 Tech Stack
+stack:
 - **Language:** Python 3.x  
 - **Services:** AWS Lambda + Amazon API Gateway  
 - **Testing Tool:** Postman  
 
 ---
 
-## 🌐 Live Demo
+live demo:
 **Invoke URL:**  
 [https://9heun1lhi8.execute-api.us-east-2.amazonaws.com/default/helloWorld](https://9heun1lhi8.execute-api.us-east-2.amazonaws.com/default/helloWorld)
 
-**Expected Output:**
